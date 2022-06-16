@@ -1,0 +1,49 @@
+TsetName	codeRanking					
+adult_somatic_muscle	g B A A					g: Good
+adult_muscle	g A A A					i: Intermediate
+blastoderm.mapping1	g A B A					p: poor
+adult_mesoderm.mapping1	g B A A					First Column Rank: TrainingSet Recovery
+mapping2.glia	g A C A					Second Column Rank: REDfly Recovery
+mapping1.glia	g A C A					Third Column Rank: TrainingSet Specificity Recall
+mesectoderm.mapping1	g B B A					
+mapping1.somatic_muscle	i C C A					
+mapping1.tracheal_system	i A D A					
+amnioserosa.mapping1	i C A B					
+mapping1.visceral_mesoderm	i B A B					
+eye.mapping1	i A A B					
+mesoderm.mapping1	i C B C					
+embryonic_muscle	i B A C					
+embryonic_trachea	i B B C					
+cardiac.mapping1	i C A C					
+malpig.mapping1	i C A C					
+mapping1.ectoderm	i C C C					
+embryonic_somatic_muscle	i A A C					
+embryonic_midgut	i C A C					
+emb-larv_circulatory_system	i C A C					
+emb-larv_excretory	i C A C					
+emb-larv_hindgut	i A B C					
+myoblast	i B C D					
+leg_disc	i C C D					
+mapping2.wing	p C D A					
+embryonic_sense_organ	p B E A					
+adult_pns	p B E A					
+embryonic_epidermis	p C A B					
+emb-larv_foregut	p D C C					
+mapping2.mesoderm	p E B C					
+mapping1.salivary_gland	p D A C					
+mapping1.dorsal_ectoderm	p A D C					
+mapping2.ectoderm	p D D C					
+mapping1.ventral_ectoderm	p A D C					
+fat_body.mapping1	p A D C					
+embryonic_salivary	p A D C					
+adult_circulatory	p D C C					
+female_reproductive	p C A C					
+emb-larv_fat_body	p A D C					
+eye_disc	p D D C					
+antennal_lobe	p C C D					
+disc.mapping2	p D C D					
+emb-larval_opticlobe	p D B D					
+emb-larv_visceral	p C C E					
+haltere_disc	p C A E					
+adult_foregut	p D C E					
+adult_midgut	p C D E					
